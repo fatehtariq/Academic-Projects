@@ -66,13 +66,6 @@ Sample Size divided by Batch Size, the number of epochs is set at 5. The Validat
 size is kept at 10000 divided by Batch Size. This greatly reduces computational costs in
 deeper Convolutional Neural Networks.
 The Final Result of the Model concludes an accuracy of over 99.28% with a 0.0223 Loss
-Selected Papers
-- Classification of MNIST Handwritten Digit Database using Neural Network By
-Wan Zhu, Research School of Computer Science, Australian National University,
-Acton, ACT 2601, Australia
-- A Survey of Handwritten Character Recognition with MNIST and EMNIST By
-Alejandro Baldominos, Computer Science Department, Universidad Carlos III of
-Madrid, 28911 Leganés, Madrid, Spain
 
 ## Demonstration of Downloaded Dataset
 The MNIST database which contains 60,000 images for training and 10,000 test images with
